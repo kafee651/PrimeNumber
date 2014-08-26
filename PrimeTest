@@ -1,0 +1,4 @@
+To test whether given number n is prime:
+
+Methods:
+1.Trial division test:It consists of testing whether n is a multiple of any integer between 2 and sqrt{n}.
